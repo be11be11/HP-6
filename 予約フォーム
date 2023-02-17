@@ -1,0 +1,55 @@
+ <!DOCTYPE html>
+ <html lang="ja">
+ <head>
+  <meta charset="UTF-8">
+  <title>予約フォーム</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <link rel="stylesheet" href="style.css" type="text/css">
+ </head>
+
+
+ <body>
+
+<div id="wrapper">
+ </div>
+
+ <main>  
+
+<style>
+.example{
+border: 1px solid #333; 
+padding: 70px;
+margin:　5px;
+display: flex;
+justify-content: space-between;
+overflow: visible;
+ background-repeat: no-repeat;
+}
+.example div{
+margin:　50px;
+border: 1px solid #333; 
+padding: 10px;
+}
+</style>
+
+<div class="example"> 
+<div>内側 1div
+<p> </p>
+<p> </p>
+
+</div>
+<div>内側 2div
+<p> </p>
+<p> </p>
+</div>
+  
+  </section>
+  </main>
+  <footer>
+  
+  </footer>
+
+
+ </body>
+ </html>
