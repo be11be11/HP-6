@@ -1,0 +1,177 @@
+@charset "UTF-8";
+
+@media screen and (min-width:10px) and (max-width:500px){
+  
+.bar {
+   position: fixed; /* 固定配置 */
+   top: 10px;  /* 基点（ウィンドウ）からの距離 */
+   right: 20px;  /* 基点（ウィンドウ）からの距離 */
+   width: 20%;
+   border:1px solid #D49999; 
+   background-color:rgba(0,250,200,0.2);
+   z-index: 9;
+}
+
+p {
+  text-align:center; 
+  line-height: 95%;
+  position: relative; 
+  z-index: 10; 
+}
+  
+div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; position: relative; }
+div.親1 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+div.親2 {border:2px solid lime; width: 99%; height: 700px; background-color: rgba(0, 150, 50, 0.3); display: flex; flex-flow: column; text-align: center; }
+div.親3 {border:2px solid lime; width: 99%; height: 550px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+div.親4 {border:2px solid lime; width: 99%; height: 550px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+  
+div.店内1 img {border:2px solid orange; width: 98.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto; }
+
+div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin: 0 auto; }
+
+div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
+
+ div.ヘア1 img {border:10px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0%; margin-left: 5%; }
+ div.ヘア2 img {border:10px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 5%; }
+ div.ヘア3 img {border:10px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -1%; margin-left: 55%; }
+ div.ヘア4 img {border:10px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 55%; }
+  
+div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 5%; }
+
+div.text2 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -20%; margin-left: 50%; }
+
+div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 5%; }
+
+div.text3 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -10%; margin-left: 50%; }
+
+div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 1%; }
+
+.sns1 {border:2px solid pink; width: 15%; background-color: rgba(0, 250, 50, 0.2); position: absolute; margin-top: 1%; margin-left: 20%; }
+.sns2 {border:2px solid aqua; width: 15%; background-color: rgba(150, 50, 00, 0.2); position: absolute; margin-top: 1%; margin-left: 60%; }  
+div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
+div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 55%; }
+  
+}
+
+
+ @media screen and (min-width:501px) and (max-width:1400px){
+   
+.bar {
+   position: fixed; /* 固定配置 */
+   top: 10px;  /* 基点（ウィンドウ）からの距離 */
+   right: 20px;  /* 基点（ウィンドウ）からの距離 */
+   width: 20%;
+   border:1px solid #D49999; 
+   background-color:rgba(0,250,200,0.2);
+   z-index: 9;
+}
+
+p {
+  text-align:center; 
+  line-height: 95%;
+  position: relative; 
+  z-index: 10; 
+}
+ 
+ div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
+div.親1 {border:2px solid aqua; width: 99%; height: 450px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+div.親2 {border:2px solid lime; width: 99%; height: 900px; background-color: rgba(0, 150, 50, 0.3); display: flex; flex-flow: column; text-align: center; }
+div.親3 {border:2px solid lime; width: 99%; height: 900px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+div.親4 {border:2px solid lime; width: 99%; height: 900px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+   
+div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); position: absolute;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto; }
+
+div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); margin: 0 auto; } 
+
+div.店内2 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
+
+ div.ヘア1 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 5%; margin-left: 5%; }
+ div.ヘア2 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 70%; margin-left: 25%; }
+ div.ヘア3 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -1%; margin-left: 47%; }
+ div.ヘア4 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 70%; margin-left: 70%; }
+   
+div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 3%; margin-left: 7%; }
+
+div.text2 {border:2px solid orange; width: 35%; height: 490px; background-color: rgba(100, 250, 0, 0.2); margin-top: -25%; margin-left: 55%; }
+
+div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 3%; margin-left: 7%;  }
+
+div.text3 {border:2px solid orange; width: 35%; height: 490px; background-color: rgba(100, 250, 0, 0.2); margin-top: -25%; margin-left: 55%; }
+
+div.子 {border:2px solid orange; width: 85%; height: 490px; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 1%; }
+
+.sns1 {border:2px solid pink; width: 15%; background-color: rgba(0, 250, 50, 0.2); position: absolute; margin-top: 1%; margin-left: 20%; }
+.sns2 {border:2px solid aqua; width: 15%; background-color: rgba(150, 50, 00, 0.2); position: absolute; margin-top: 1%; margin-left: 60%; }  
+div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 65%; margin-left: 15%; }  
+div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 80%; margin-left: 55%; }
+   
+}
+
+   
+ @media screen and (min-width:1400px) and (max-width:2000px){  
+   
+.bar {
+   position: fixed; /* 固定配置 */
+   top: 10px;  /* 基点（ウィンドウ）からの距離 */
+   right: 20px;  /* 基点（ウィンドウ）からの距離 */
+   width: 20%;
+   border:1px solid #D49999; 
+   background-color:rgba(0,250,200,0.2);
+   z-index: 9;
+}
+
+p {
+  text-align:center; 
+  line-height: 95%;
+  position: relative; 
+  z-index: 10; 
+}
+   
+ div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
+div.親1 {border:2px solid aqua; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+div.親2 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); display: flex; flex-flow: column; text-align: center;}
+div.親3 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+div.親4 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
+   
+div.店内1 img {border:2px solid orange; width: 65%; background-color: rgba(100, 250, 0, 0.2); position: absolute;
+   left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto; }
+
+div.text1 {border:2px solid orange; width: 60%; height: 225px; font-size: 80%; background-color: rgba(100, 250, 0, 0.2);  margin: -5px auto; }
+
+div.店内2 img {border:2px solid orange; width: 40%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
+   
+ div.ヘア1 img {border:2px solid orange; width: 20%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0%; margin-left: 3%; }
+ div.ヘア2 img {border:2px solid orange; width: 20%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0%; margin-left: 27%; }
+ div.ヘア3 img {border:2px solid orange; width: 20%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0%; margin-left: 52%; }
+ div.ヘア4 img {border:2px solid orange; width: 20%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0%; margin-left: 75%; }
+
+div.メニュー1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
+
+div.text2 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -20%; margin-left: 50%; }
+
+div.emiko1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
+
+div.text3 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -10%; margin-left: 50%; }
+
+div.子 {border:2px solid orange; width: 85%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 1%; }
+
+.sns1 {border:2px solid pink; width: 7.5%; background-color: rgba(0, 250, 50, 0.2); position: absolute; margin-top: 1%; margin-left: 20%; }
+.sns2 {border:2px solid aqua; width: 7.5%; background-color: rgba(150, 50, 00, 0.2); position: absolute; margin-top: 1%; margin-left: 60%; }  
+div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 15%; margin-left: 15%; }  
+div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 20%; margin-left: 55%; }
+   
+}
