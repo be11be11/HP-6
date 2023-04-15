@@ -36,9 +36,9 @@ div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color:
 
 div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
 
- div.ヘア1 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 1%; margin-left: 5%; }
- div.ヘア2 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 56.5%; margin-left: 5%; }
- div.ヘア3 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -1%; margin-left: 55%; }
+ div.ヘア1 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -1%; margin-left: 3%; }
+ div.ヘア2 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 57%; margin-left: 3%; }
+ div.ヘア3 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -2%; margin-left: 55%; }
  div.ヘア4 img {border:18px solid orange; width: 38.5%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 55%; }
   
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 5%; }
