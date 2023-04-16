@@ -152,7 +152,7 @@ div.店内2 img {width: 40%; background-color: rgba(100, 250, 0, 0.2); display: 
    
 div.子 {border:2px solid pink; width: 99.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative;} 
 div.孫1 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; z-index: -1; }
-div.孫2 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); position: absolute; margin-top: -100%; border-box; margin-left: 17.5%; z-index: 3; }   
+div.孫2 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); position: absolute; margin-top: -50%; border-box; margin-left: 30%; z-index: 3; }   
 img {border:5px solid orange; width: 25%; box-sizing: border-box; }
 img.ヘア {border:5px solid orange; width: 25%; box-sizing: border-box; margin-top: -60%; margin-left: 65%; }
    
