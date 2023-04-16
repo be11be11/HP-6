@@ -36,7 +36,8 @@ div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color:
 
 div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
 
-div.子 {border:2px solid aqua; width: 100%; background-color: rgba(0, 150, 50, 0.3); box-sizing: border-box; }
+div.子 {border:2px solid pink; width: 100%; background-color: rgba(0, 150, 50, 0.3); box-sizing: border-box; }
+div.孫 {border:2px solid aqua; width: 100%; background-color: rgba(0, 150, 50, 0.3); box-sizing: border-box; }
 img {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); }
   
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 1%; margin-left: 5%; }
