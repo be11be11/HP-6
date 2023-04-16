@@ -76,9 +76,9 @@ p {
   z-index: 10; 
 }
  
- div.祖 {border:2px solid pink; width: 100%; display:flex; flex-flow: column; }
+div.祖 {border:2px solid lime; width: 100%; display:flex; flex-flow: column; }
 div.親1 {border:2px solid red; width: 99%; height: 450px; position: relative; }
-div.親2 {border:2px solid pink; width: 99%; height: 900px; display: flex; flex-flow: column; text-align: center; }
+div.親2 {border:5px solid pink; width: 99%; height: 900px; display: flex; flex-flow: column; text-align: center; }
 div.親3 {border:2px solid red; width: 99%; height: 900px; position: relative; }
 div.親4 {border:2px solid pink; width: 99%; height: 900px; position: relative; }
    
@@ -93,11 +93,11 @@ div.text1 {width: 85%; height: 350px; margin: 0 auto; }
 
 div.店内2 img {width: 75%;display: block; margin: 0 auto; }
 
-div.子 {border:2px solid pink; width: 100%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative; } 
-div.孫1 {border:2px solid aqua; width: 77.5%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; }
-div.孫2 {border:2px solid aqua; width: 77.5%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 45%; }   
-img {border:5px solid orange; width: 30%; box-sizing: border-box; }
-img.ヘア {border:5px solid orange; width: 30%; box-sizing: border-box; margin-left: 55%; }
+div.子 {border:2px solid pink; width: 95%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative; } 
+div.孫1 {border:3px solid aqua; width: 77.5%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; }
+div.孫2 {border:3px solid aqua; width: 77.5%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 35%; }   
+img {border:5px solid orange; width: 37.5%; box-sizing: border-box; }
+img.ヘア {border:5px solid green; width: 37.5%; box-sizing: border-box; margin-top: -50%; margin-left: 55%; }
    
 div.メニュー1 img {width: 35%; margin-top: 3%; margin-left: 7%; }
 
@@ -150,9 +150,9 @@ div.text1 {width: 60%; height: 225px; font-size: 80%; margin: -5px auto; }
 
 div.店内2 img {width: 40%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
    
-div.子 {border:2px solid pink; width: 100%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative;} 
+div.子 {border:2px solid pink; width: 95%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative;} 
 div.孫1 {border:2px solid aqua; width: 77.5%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; }
-div.孫2 {border:2px solid aqua; width: 77.5%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 45%; }   
+div.孫2 {border:2px solid aqua; width: 77.5%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 35%; }   
 img {border:5px solid orange; width: 22.5%; box-sizing: border-box; }
 img.ヘア {border:5px solid orange; width: 22.5%; box-sizing: border-box; margin-left: 60%; }
    
