@@ -50,7 +50,7 @@ div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100,
 
 div.text3 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -10%; margin-left: 50%; }
 
-.sns1 {width: 15%; position: absolute; margin-top: 2%; margin-left: 15%; }
+.sns1 {width: 15%; position: absolute; margin-top: 3%; margin-left: 15%; }
 .sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 35%; }  
 .sns3 {width: 22%; position: absolute; margin-top: 1%; margin-left: 53%; }
 .sns4 {width: 15%; position: absolute; margin-top: 1%; margin-left: 75%; } 
@@ -100,8 +100,8 @@ div.店内2 img {border:2px solid red; width: 75%;display: block; margin: 0 auto
 div.子 {border:2px solid pink; width: 95%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative; } 
 div.孫1 {border:3px solid aqua; width: 80%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; }
 div.孫2 {border:3px solid aqua; width: 80%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 20%; }   
-img {border:5px solid orange; width: 40%; box-sizing: border-box; }
-img.ヘア {border:5px solid green; width: 40%; box-sizing: border-box; margin-top: -60%; margin-left: 55%; }
+img {border:5px solid orange; width: 40%; box-sizing: border-box; margin-top: 5%; }
+img.ヘア {border:5px solid green; width: 40%; box-sizing: border-box; margin-top: -65%; margin-left: 55%; }
    
 div.メニュー1 img {border:2px solid red; width: 35%; margin-top: 3%; margin-left: 7%; }
 
@@ -111,7 +111,7 @@ div.emiko1 img {border:2px solid red; width: 35%; margin-top: 3%; margin-left: 7
 
 div.text3 {border:2px solid red; width: 35%; height: 490px; margin-top: -25%; margin-left: 55%; }
 
-.sns1 {width: 15%; position: absolute; margin-top: 2%; margin-left: 15%; }
+.sns1 {width: 15%; position: absolute; margin-top: 3%; margin-left: 15%; }
 .sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 35%; }  
 .sns3 {width: 22%; position: absolute; margin-top: 1%; margin-left: 53%; }
 .sns4 {width: 15%; position: absolute; margin-top: 1%; margin-left: 75%; }
@@ -172,7 +172,7 @@ div.emiko1 img {border:2px solid red; width: 15%; margin-top: 5%; margin-left: 1
 
 div.text3 {border:2px solid red; width: 35%; height: 400px; margin-top: -10%; margin-left: 50%; }
 
-.sns1 {width: 7.5%; position: absolute; margin-top: 2%; margin-left: 25%; }
+.sns1 {width: 7.5%; position: absolute; margin-top: 3%; margin-left: 25%; }
 .sns2 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 40%; }  
 .sns3 {width: 10%; position: absolute; margin-top: 1%; margin-left: 62.5%; }
 .sns4 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 75%; }
