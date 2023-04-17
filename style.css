@@ -101,7 +101,7 @@ div.子 {border:2px solid pink; width: 95%; background-color: rgba(0, 150, 50, 0
 div.孫1 {border:3px solid aqua; width: 80%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; }
 div.孫2 {border:3px solid aqua; width: 80%; height: 47.5%;　background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 20%; }   
 img {border:5px solid orange; width: 40%; box-sizing: border-box; margin-top: 5%; }
-img.ヘア {border:5px solid green; width: 40%; box-sizing: border-box; margin-top: -65%; margin-left: 55%; }
+img.ヘア {border:5px solid green; width: 40%; box-sizing: border-box; margin-top: -58.5%; margin-left: 55%; }
    
 div.メニュー1 img {border:2px solid red; width: 35%; margin-top: 3%; margin-left: 7%; }
 
