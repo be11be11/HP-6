@@ -50,8 +50,10 @@ div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100,
 
 div.text3 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -10%; margin-left: 50%; }
 
-.sns1 {border:2px solid pink; width: 15%; background-color: rgba(0, 250, 50, 0.2); position: absolute; margin-top: 1%; margin-left: 20%; }
-.sns2 {border:2px solid aqua; width: 15%; background-color: rgba(150, 50, 00, 0.2); position: absolute; margin-top: 1%; margin-left: 60%; }  
+.sns1 {width: 15%; position: absolute; margin-top: 1%; margin-left: 20%; }
+.sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 40%; }  
+.sns3 {width: 15%; position: absolute; margin-top: 1%; margin-left: 60%; }
+.sns4 {width: 15%; position: absolute; margin-top: 1%; margin-left: 80%; } 
 div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
 div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 55%; }
   
@@ -108,7 +110,9 @@ div.emiko1 img {width: 35%; margin-top: 3%; margin-left: 7%;  }
 div.text3 {width: 35%; height: 490px; margin-top: -25%; margin-left: 55%; }
 
 .sns1 {width: 15%; position: absolute; margin-top: 1%; margin-left: 20%; }
-.sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 60%; }  
+.sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 40%; }  
+.sns3 {width: 15%; position: absolute; margin-top: 1%; margin-left: 60%; }
+.sns4 {width: 15%; position: absolute; margin-top: 1%; margin-left: 80%; }
 div.text4 {width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); display: flex; justify-content: center; align-items: center; position: absolute; margin-top: 65%; margin-left: 15%; }  
 div.店内3 img {width: 35%; position: absolute; margin-top: 80%; margin-left: 55%; }
    
@@ -165,7 +169,9 @@ div.emiko1 img {width: 15%; margin-top: 5%; margin-left: 10%; }
 div.text3 {width: 35%; height: 400px; margin-top: -10%; margin-left: 50%; }
 
 .sns1 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 20%; }
-.sns2 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 60%; }  
+.sns2 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 40%; }  
+.sns3 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 60%; }
+.sns4 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 80%; }
 div.text4 {width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); display: flex; justify-content: center; align-items: center; position: absolute; margin-top: 15%; margin-left: 15%; }  
 div.店内3 img {width: 35%; position: absolute; margin-top: 20%; margin-left: 55%; }
    
