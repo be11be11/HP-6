@@ -151,10 +151,10 @@ div.text1 {width: 60%; height: 225px; font-size: 80%; margin: -5px auto; }
 div.店内2 img {width: 40%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
    
 div.子 {border:2px solid pink; width: 99.5%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; position: relative;} 
-div.孫1 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; z-index: -1; }
-div.孫2 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); position: absolute; margin-top: -35%; border-box; margin-left: 25%; z-index: 3; }   
-img {border:5px solid orange; width: 30%; box-sizing: border-box; }
-img.ヘア {border:5px solid orange; width: 30%; box-sizing: border-box; margin-top: -60%; margin-left: 70%; }
+div.孫1 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); box-sizing: border-box; margin-left: 3%; z-index: -1; }
+div.孫2 {border:2px solid aqua; width: 70%; height: 98.5%; background-color: rgba(0, 150, 50, 0.2); position: absolute; margin-top: -35%; border-box; margin-left: 27.5%; z-index: 3; }   
+img {border:5px solid orange; width: 40%; box-sizing: border-box; margin-top: 15%; }
+img.ヘア {border:5px solid orange; width: 40%; box-sizing: border-box; margin-top: -47.5%; margin-left: 60%; }
    
 div.メニュー1 img {width: 15%; margin-top: 5%; margin-left: 10%; }
 
